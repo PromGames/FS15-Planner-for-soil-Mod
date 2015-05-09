@@ -16,7 +16,7 @@ The tool needs some data to be introduced before starting:
  - Place Initial values (pH,N,P) of the field
  - If you incorporate new fields, you must set the server date in the field-card when you initiate that field
  
-***The Field Cards*** Allows you to planify in adavnce, all corrected steps you need in order to get the best crop yields.
+***The Field Cards*** Allows you to planify in advance, all tasks and correction steps you need in order to get the best crop yields.
 
 ***The Field overview*** Provide with a clear vision in multiplayer to decide where to go to do pending tasks.
 
