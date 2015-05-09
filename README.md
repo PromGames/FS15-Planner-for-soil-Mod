@@ -1,2 +1,7 @@
-# SoilMod---growing-excel-calculator-FS15
-Excel spreadsheet based on tool done by vinKaiZen for calculating soil status, planning and tracking farming applications
+# FS15 Planner for SoilMod (Calculator)
+
+Authors: vin_KaiZen, PromGames
+
+Description:
+
+Excel spreadsheet for planing, calculating and tracking soil status and farming operations.
